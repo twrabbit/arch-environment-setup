@@ -7,8 +7,8 @@ It covers the following points:
 <ul>
   <li>Root password change</li>
   <li>Hostname change</li>
-  <li>Unprivileged usr creation</li>
-  <li>Internet connection</li>
+  <li>Unprivileged user creation</li>
+  <li>Wired internet setup</li>
   <li>pacman.conf configuration</li>
   <li>System update</li>
   <li>Basic softwares installation:
