@@ -2,7 +2,7 @@
 A bash script to automate Arch Linux basic configuration after installation.
 
 Welcome to Arch Environment Setup.<br>
-This bash script will setup the basic on your new Arch Linux installation. This was designed mainly to be used after arch-installer, but feel free to read the code and see if serves to you.
+This bash script will setup the basic on your new Arch Linux installation. This was designed mainly to be used after arch-installer, but feel free to read the code and see if serves to you.<br/>
 It covers the following points:
 <ul>
   <li>Root password change</li>
